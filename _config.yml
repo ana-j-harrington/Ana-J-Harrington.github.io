@@ -21,7 +21,7 @@ repository               : "ana-j-harrington/ana-j-harrington.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Contact"
   pronouns         : # example: "she/her"  
   bio              : "Research focus: media & politics during regime change from democracy to autocracy"
