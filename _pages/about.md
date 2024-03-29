@@ -1,15 +1,33 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+°˖✿˚ ˖⋆Hi! ˖⋆˚✿˖°
 
-A data-driven personal website
+My name is Ana Jovanovic-Harrington. I am a PhD candidate at Dublin City University School of Communications, set to graduate in 2026. 
+
+˚ʚ👩🏻‍💻📓✍🏻💡ɞ˚ 
+
+My research explores the relationship between media and politics, specifically in the context of regime changes from democracy to autocracy. The area of my interest is Central and Southern Eastern Europe, and the period is from 2010 and onwards.
+
+˚ʚ👩🏻‍🎓🏫📑🎒ɞ˚ 
+
+I also hold a joint master’s degree in political science from the University of Bologna and Zagreb (MIREES) and a bachelor’s degree in French language and literature from the University of Sarajevo. 
+
+˚ʚ˚👩🏻‍🏫💼📚🤓ɞ˚ 
+
+Committed to education beyond traditional settings, I have also been working as a part-time civil servant in Ireland since 2023 at the Dublin and Dún Laoghaire Education & Training Board, where she design and deliver courses that equip vulnerable communities with skills to combat online misinformation and navigate digital spaces safely. Moreover, I have been an active member of Humanity in Action in my native Bosnia and Herzegovina since 2016, after completing the John Lewis Fellowship. Since 2022, I have been supervising undergraduate research-based policy projects aimed at boosting civic engagement and active democratic participation. In short, I am passionate about blending activism and academia, which is why I focus on under-researched topics whose operationalisation is essential for building democratic resilience. 
+
+˚ʚ💻🌐⚙️🔌ɞ˚
+More on my methods here
+
+Research interests
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
