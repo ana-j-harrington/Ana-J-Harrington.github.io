@@ -45,15 +45,15 @@ Conferences & Events
 **March 2024**
 - Attended, and presented at International Communication Association Regional Conference Human Tech Transition in Warsaw, Poland. Received amazing feedback, and met some lovely people! ♡
 - Submitted a co-authored paper for the Decrypting Digital Authoritarianism conference, set to take place in October in Florance, Italy. Fingers crossed!🍀
-- Launched this website on the 30.03.2024. as a part of my application for the new CITAP cohort.
+- Launched this website on the 30.03.2024. as a part of my application for the new CITAP cohort. Fingers crossed!🍀
 
 Let's keep in touch
 ------
-┌───── -ˋˏ ∵✉︎∴ ˎˊ- ─────┐
+┌──────── -ˋˏ ∵✉︎∴ ˎˊ- ────────┐
 
 -ˏˋ⋆ <ana.jovanovicharrington2@mail.dcu.ie> ⋆ˊˎ-
 
-└───── -ˋˏ ∵✉︎∴ ˎˊ- ─────┘
+└──────── -ˋˏ ∵✉︎∴ ˎˊ- ────────┘
 
 **Extracurriculars**
 
