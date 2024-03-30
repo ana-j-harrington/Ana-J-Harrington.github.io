@@ -4,7 +4,7 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /files/AprilCV.pdf/
+    url: /files/AprilCV.pdf
 
   - title: "News & Updates"
     url: /year-archive/

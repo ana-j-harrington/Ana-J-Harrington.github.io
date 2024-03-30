@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼
+𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𓍊𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖡼𖤣𖥧𖡼𓋼𖤣𖥧𓋼𖥧𖡼
 
 °˖✿˚ ˖⋆Hi! ˖⋆˚✿˖°
 
@@ -25,26 +25,20 @@ I also hold a joint master’s degree in political science from the University o
 Committed to education beyond traditional settings, I have also been working as a part-time civil servant in Ireland since 2023 at the Dublin and Dún Laoghaire Education & Training Board, where she design and deliver courses that equip vulnerable communities with skills to combat online misinformation and navigate digital spaces safely. Moreover, I have been an active member of Humanity in Action in my native Bosnia and Herzegovina since 2016, after completing the John Lewis Fellowship. Since 2022, I have been supervising undergraduate research-based policy projects aimed at boosting civic engagement and active democratic participation. In short, I am passionate about blending activism and academia, which is why I focus on under-researched topics whose operationalisation is essential for building democratic resilience. 
 
 ˚ʚ💻🌐⚙️🔌ɞ˚
-More on my methods here
 
-Research interests
+My research deals broadly with changes to media systems that parallel regime change to autocracy. In Central and South Eastern Europe these changes were most evident from 2010 and onwards. Therefore, although based on two established streams of literature, media systems framework and regime change, my research also intersects with the new and growing field of digital authoritarianism. 
+
+The adaptability and flexibility of modern autocracies are arguably most visible in the way they use digital spaces. In the past, autocracies would officially ban and restrict access to information. Moreover, by default, on the Internet, national actors cannot dictate all content present. It is, therefore, reasonable to assume modern autocracies would officially restrict access to the Internet or ban it altogether. Yet, counterintuitively, that is not the case in most modern autocracies. Instead, autocratic incumbents found ways to use the digital space to their advantage.
+
+Currently working on:
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+In the following months, I plan to publish parts of my thesis as papers, delving into specific tactics modern autocrats use in the digital sphere. First, in cooperation with my supervisor, Dr. Alessio Cornia, I am working on a paper to operationalise and situate the use of Botnet malware and more sophisticated networks of coordinated inauthentic behaviour. 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+The second draft in progress focuses on the intersection of the physical and digital, describing the new (and old in a way) tactic of incumbents using state funds and connections to drive undesirable broadband providers out of business. However, as this is an ongoing process, it is unclear what happens once their goal is achieved.
 
-Getting started
+Contacts
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+text social media [email](ana.jovanovicharrington2@mail.dcu.ie)
 
 Create content & metadata
 ------
