@@ -18,7 +18,7 @@ My research explores the relationship between media and politics, specifically i
 
 ˚ʚ👩🏻‍🎓🏫📑🎒ɞ˚ 
 
-I also hold a joint master’s degree in political science from the University of Bologna and Zagreb (MIREES) and a bachelor’s degree in French language and literature from the University of Sarajevo. 
+I also hold a joint master’s degree in political science from the University of Bologna and Zagreb (MIREES) and a bachelor’s degree in French language and literature from the University of Sarajevo. Additionally, I was a part of the European Academy of Diplomacy Young Diplomats 2018/2019 cohort, on a Casimir Pulaski Scholarship, where I got a specialisation certificate in International Security. Plus, I attended the South-Eastern European Dialogue on Internet Governance youth school 2018/2019, and the European internet governance events as a SEEDIG fellow. 
 
 ˚ʚ˚👩🏻‍🏫💼📚🤓ɞ˚ 
 
@@ -49,11 +49,11 @@ Conferences & Events
 
 Let's keep in touch
 ------
-┌──────────────── -ˋˏ ∵✉︎∴ ˎˊ- ────────────────┐
+┌───── -ˋˏ ∵✉︎∴ ˎˊ- ─────┐
 
 -ˏˋ⋆ <ana.jovanovicharrington2@mail.dcu.ie> ⋆ˊˎ-
 
-└──────────────── -ˋˏ ∵✉︎∴ ˎˊ- ────────────────┘
+└───── -ˋˏ ∵✉︎∴ ˎˊ- ─────┘
 
 **Extracurriculars**
 
