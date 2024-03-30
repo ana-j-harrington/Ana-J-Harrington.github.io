@@ -38,6 +38,10 @@ The second draft in progress focuses on the intersection of the physical and dig
 
 Conferences & Events
 ======
+**April 2024**
+- Attending the DCU Staff workshop: MS Excel 2016 (intermediate) on the 10th of April.
+- Attending the DCU Media research and engagement workshop on the 11th of April.
+
 **March 2024**
 - Attended, and presented at International Communication Association Regional Conference Human Tech Transition in Warsaw, Poland. Received amazing feedback, and met some lovely people! ♡
 - Submitted a co-authored paper for the Decrypting Digital Authoritarianism conference, set to take place in October in Florance, Italy. Fingers crossed!🍀
@@ -46,10 +50,12 @@ Conferences & Events
 Let's keep in touch
 ------
 ┌──────────────── -ˋˏ ∵✉︎∴ ˎˊ- ────────────────┐
+
 -ˏˋ⋆ <ana.jovanovicharrington2@mail.dcu.ie> ⋆ˊˎ-
+
 └──────────────── -ˋˏ ∵✉︎∴ ˎˊ- ────────────────┘
 
 **Extracurriculars**
 
-In my spare time, I am either gaming, thrifting, or planning my next trip (on a budget). You can follow these (mis)adventures on my [TikTok](https://www.tiktok.com/@peerreviewer2?_t=8l6osfl4gU4&_r=1), which I am trying to use as a visual diary. I do not guarantee consistency with posting, however, if you wish to reach out with a meme, I welcome it. 
+In my spare time, I am either gaming, thrifting, or planning my next trip (on a budget). You can follow these (mis)adventures on my [TikTok](https://www.tiktok.com/@peerreviewer2?_t=8l6osfl4gU4&_r=1), which I am trying to use as a visual diary. While I do not guarantee consistency with posting, reaching out in the meme format is always welcome.
 
