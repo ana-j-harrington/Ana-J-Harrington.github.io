@@ -38,7 +38,7 @@ The second draft in progress focuses on the intersection of the physical and dig
 
 Contacts
 ======
-text social media [email](ana.jovanovicharrington2@mail.dcu.ie)
+text social media (ana.jovanovicharrington2@mail.dcu.ie)
 
 Create content & metadata
 ------
